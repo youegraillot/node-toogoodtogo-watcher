@@ -26,7 +26,7 @@
   "dependencies": {
     "conf": "^10.0.3",
     "editor": "^1.0.0",
-    "got": "^11.8.2",
+    "got": "^12.5.3",
     "lodash": "^4.17.21",
     "moment": "^2.29.1",
     "node-notifier": "^10.0.0",
